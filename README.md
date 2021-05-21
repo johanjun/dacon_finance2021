@@ -1,8 +1,8 @@
 # 경기선행지수와 부동산 데이터로 살펴본 한국 경제
 
 ---
-Team : [밤맹이](https://dacon.io/myprofile/423577/home/), [dbdbdeep](https://dacon.io/myprofile/411646/home/)
-[Dacon Code Share](https://dacon.io/competitions/official/235724/codeshare/2730)
+Team : [밤맹이](https://dacon.io/myprofile/423577/home/), [dbdbdeep](https://dacon.io/myprofile/411646/home/)<br>
+[Dacon Code Share](https://dacon.io/competitions/official/235724/codeshare/2730)<br>
 [Visualization](https://public.tableau.com/profile/.34638457#!/vizhome/_16215806605580/sheet3?publish=yes)
 
 ---
